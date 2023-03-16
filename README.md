@@ -1,3 +1,5 @@
+![cooltext431789516531647](https://user-images.githubusercontent.com/124217916/225774702-1e0d3bc1-8a09-46ab-8284-fb4d0e71b54e.gif)
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
